@@ -1,0 +1,13 @@
+#include<stdio.h>
+#inlude<conio.h>
+int main()
+{
+int s;
+cin>>s;
+if(s>0)
+cout<<"OUTPUT"<<endl<<"POSITIVE";
+else if(s==0)
+cout<<"OUTPUT"<<endl<<"ZERO";
+else cout<<"OUTPUT"<<endl<<"NEGATIVE";
+return 0;
+}
