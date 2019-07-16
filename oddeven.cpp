@@ -7,5 +7,6 @@ if(a%2==0)
 cout<<"Output"<<endl<<"Even";
 else 
 cout<<"Output"<<endl<<"Odd";
-return 0;
+else cout<<"Invalid";
+  return 0;
 }
