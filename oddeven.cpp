@@ -4,9 +4,9 @@ int main()
 {
 int a;
 if(a%2==0)
-cout<<"Output"<<endl<<"Even";
-else 
-cout<<"Output"<<endl<<"Odd";
+cout<<"Even";
+ifelse(a%2==1)
+cout<<"Odd";
 else cout<<"Invalid";
   return 0;
 }
