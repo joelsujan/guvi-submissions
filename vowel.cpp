@@ -1,4 +1,4 @@
-#include<isotream>
+#include<iostream>
 #include<cstring>
 int main()
 {
