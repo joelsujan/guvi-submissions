@@ -1,5 +1,5 @@
-#include<iostream>
-#include<cstring>
+#include<iostream.h>
+#include<string.h>
 int main()
 {
 char as;
