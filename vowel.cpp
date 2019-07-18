@@ -6,22 +6,22 @@ char as;
 cin>>as;
 switch(as)
 { case 'a':
-cout<<"vowel";
+cout<<"Vowel";
 break;
  case 'e':
-cout<<"vowel";
+cout<<"Vowel";
 break;
  case 'i':
-cout<<"vowel";
+cout<<"Vowel";
 break;
  case 'o':
-cout<<"vowel";
+cout<<"Vowel";
 break;
  case 'u':
-cout<<"vowel";
+cout<<"Vowel";
 break;
  default: 
- cout<<"consanat"
+ cout<<"Consonat"
  }
  return 0;
  }
