@@ -7,5 +7,7 @@ cin>>a;
 if ((a >= 65 && a <= 90) 
         || (a >= 97 && a <= 122)) 
         cout << " Alphabet "; 
+        else cout<<"No";
+        
   return 0;
   }
