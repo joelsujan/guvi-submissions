@@ -7,7 +7,7 @@ cin>>no;
 while(no>0)
 {
 no=no/10;
-count++
+count++;
 }
 cout<<count;
 return 0;
